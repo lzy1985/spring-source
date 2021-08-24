@@ -1,0 +1,17 @@
+org\apache\commons\logging\LogAdapter$Log4jLog.class
+org\apache\commons\logging\LogAdapter$Slf4jLog.class
+org\apache\commons\logging\LogAdapter.class
+org\apache\commons\logging\LogFactoryService.class
+org\apache\commons\logging\LogAdapter$JavaUtilLog.class
+org\apache\commons\logging\LogAdapter$LogApi.class
+org\apache\commons\logging\impl\NoOpLog.class
+org\apache\commons\logging\impl\SimpleLog.class
+org\apache\commons\logging\LogAdapter$Slf4jLocationAwareLog.class
+org\apache\commons\logging\Log.class
+org\apache\commons\logging\LogFactory$1.class
+org\apache\commons\logging\LogAdapter$LocationResolvingLogRecord.class
+org\apache\commons\logging\LogAdapter$Log4jAdapter.class
+org\apache\commons\logging\LogAdapter$1.class
+org\apache\commons\logging\LogFactory.class
+org\apache\commons\logging\LogAdapter$Slf4jAdapter.class
+org\apache\commons\logging\LogAdapter$JavaUtilAdapter.class
