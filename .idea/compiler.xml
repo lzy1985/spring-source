@@ -6,25 +6,26 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="springBeans" />
-        <module name="springWebmvc" />
-        <module name="springOxm" />
-        <module name="springContextSupport" />
         <module name="springAop" />
-        <module name="springWebflux" />
+        <module name="springBeans" />
+        <module name="springContext" />
+        <module name="springContextSupport" />
+        <module name="springCore" />
+        <module name="springdebugger" />
         <module name="springExpression" />
         <module name="springInstrument" />
-        <module name="springMessaging" />
-        <module name="springJdbc" />
-        <module name="springOrm" />
-        <module name="springCore" />
-        <module name="springJms" />
         <module name="springJcl" />
-        <module name="springWeb" />
+        <module name="springJdbc" />
+        <module name="springJms" />
+        <module name="springMessaging" />
+        <module name="springOrm" />
+        <module name="springOxm" />
+        <module name="springTest" />
         <module name="springTx" />
-        <module name="springdebugger" />
+        <module name="springWeb" />
+        <module name="springWebflux" />
+        <module name="springWebmvc" />
         <module name="springWebsocket" />
-        <module name="springContext" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -33,16 +34,17 @@
       <module name="springContext" target="8" />
       <module name="springContextSupport" target="8" />
       <module name="springCore" target="8" />
-      <module name="springdebugger" target="8" />
+      <module name="springdebugger" target="1.8" />
       <module name="springExpression" target="8" />
-      <module name="springInstrument" target="1.5" />
+      <module name="springInstrument" target="1.8" />
       <module name="springJcl" target="8" />
       <module name="springJdbc" target="8" />
       <module name="springJms" target="8" />
       <module name="springMessaging" target="8" />
-      <module name="springOrm" target="1.5" />
+      <module name="springOrm" target="1.8" />
       <module name="springOxm" target="8" />
-      <module name="springSource" target="1.5" />
+      <module name="springSource" target="1.8" />
+      <module name="springTest" target="8" />
       <module name="springTx" target="8" />
       <module name="springWeb" target="8" />
       <module name="springWebflux" target="8" />

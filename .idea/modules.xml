@@ -16,6 +16,7 @@
       <module fileurl="file://$PROJECT_DIR$/springOrm/springOrm.iml" filepath="$PROJECT_DIR$/springOrm/springOrm.iml" />
       <module fileurl="file://$PROJECT_DIR$/springOxm/springOxm.iml" filepath="$PROJECT_DIR$/springOxm/springOxm.iml" />
       <module fileurl="file://$PROJECT_DIR$/springSource.iml" filepath="$PROJECT_DIR$/springSource.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springTest/springTest.iml" filepath="$PROJECT_DIR$/springTest/springTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/springTx/springTx.iml" filepath="$PROJECT_DIR$/springTx/springTx.iml" />
       <module fileurl="file://$PROJECT_DIR$/springWeb/springWeb.iml" filepath="$PROJECT_DIR$/springWeb/springWeb.iml" />
       <module fileurl="file://$PROJECT_DIR$/springWebflux/springWebflux.iml" filepath="$PROJECT_DIR$/springWebflux/springWebflux.iml" />
